@@ -23,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Andong Hu's blog
+title:                 Andong Hu's Homepage
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,7 +32,7 @@ description:           >
   machine learning and space weather.
 
 # A shorter description for the sidebar.
-tagline:               Andong Hu's blog
+tagline:               Andong Hu's Homepage
 
 # A list of keywords for your blog
 keywords:              GNSS, machine learning and space weather
@@ -100,8 +100,8 @@ collections:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
