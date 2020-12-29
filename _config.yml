@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://HuanWinter.github.io
+url: https://HuanWinter.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -52,25 +52,30 @@ author:
 
 # Add links to the sidebar.
 menu:
+  #- title:             Blogs
+  #  url:               /docs/
+  - title:             "About me"
+    url:               /about/
   - title:             Research
     url:               /example/
-  - title:             Blogs
-    url:               /docs/
-  - title:             About
-    url:               /about/
-
+  - title:             Publications
+    url:               /Publications/
+  - title:             "Contact"
+    url:               /Contact/
+  - title:             "Files"
+    url:               /Files/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+#copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -143,16 +148,16 @@ defaults:
         overlay:       false
 
   # Don't include documents in assets in the sitemap
-  - scope:
-      path:            assets/
-    values:
-      sitemap:         false
+  #- scope:
+  #    path:            assets/
+  #  values:
+  #    sitemap:         false
 
   # Don't include licenses in sitemap (feel free to delete)
-  - scope:
-      path:            licenses/
-    values:
-      sitemap:         false
+  #- scope:
+  #    path:            licenses/
+  #  values:
+  #    sitemap:         false
 
   # # You can use the following to enable comments on all posts.
   # - scope:
@@ -355,10 +360,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                Andong Hu
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+     #- https://twitter.com/<username>
+#     - https://github.com/HuanWinter
 
 
 # Plugin Configs
