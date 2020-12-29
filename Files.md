@@ -12,8 +12,7 @@ redirect_from:
 # Conference presentation
 <b>AGU 2019</b>
 
-[A Deep Neural Network Model of Global Topside Electron Temperature Using Incoherent
-Scatter Radars and Its Application to GNSS Radio Occultation](assets/pdf/post_landscape.pdf)
+[A Deep Neural Network Model of Global Topside Electron Temperature Using Incoherent Scatter Radars and Its Application to GNSS Radio Occultation](assets/pdf/post_landscape.pdf)
 
 <b>AGU 2020</b>
 
