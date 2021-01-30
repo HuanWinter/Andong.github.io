@@ -11,7 +11,7 @@ redirect_from:
 
 # About me
 
-Hi, I'm Andong Hu. You can find out more about my research [here](_featured_categories/example.md), or read a short [resume](assets/pdf/CV_English-20201228.pdf).
+Hi, I'm Andong Hu. You can find out more about my research [here](_featured_categories/example.md), or read a short [resume](assets/pdf/CV_English.pdf).
 
 ## Brief biography
 
