@@ -17,3 +17,10 @@ redirect_from:
 <b>AGU 2020</b>
 
 [Automatic identification of magnetic reconnection events in 2D Hybrid Vlasov Maxwell simulations using Convolutional Neural Networks](assets/pdf/Presentation_reconnection.pdf)
+
+<b>AGU 2021</b>
+
+[A Machine Learning Dataset Prepared from the SoHO Mission for Space Weather Readiness (Oral)](assets/pdf/SoHO_data.pdf)
+
+1-to-3 days ahead probabilistic prediction of Dst storms using Full-Disk SoHO Images(Oral)
+
