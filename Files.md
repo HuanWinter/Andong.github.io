@@ -16,7 +16,7 @@ redirect_from:
 
 <b>AGU 2020</b>
 
-[Automatic identification of magnetic reconnection events in 2D Hybrid Vlasov Maxwell simulations using Convolutional Neural Networks](assets/pdf/Presentation_reconnection.pdf)
+[Automatic identification of magnetic reconnection events in 2D Hybrid Vlasov Maxwell simulations using Convolutional Neural Networks (Oral)](assets/pdf/Presentation_reconnection.pdf)
 
 <b>AGU 2021</b>
 
