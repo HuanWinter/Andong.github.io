@@ -10,8 +10,8 @@ hide_description: true
 
 # Journal articles
 
-  <b>Hu, A<b>., C. Shneider, A. Tiwari, and E. Camporeale. "Probabilistic prediction of Dst storms one-day-ahead using Full-Disk SoHO Images." arXiv preprint arXiv:2203.11001 (2022).
-  
+  <b>Hu, A</b>., C. Shneider, A. Tiwari, and E. Camporeale. "Probabilistic prediction of Dst storms one-day-ahead using Full-Disk SoHO Images." arXiv preprint arXiv:2203.11001 (2022).
+
   <b>A, Hu</b>., M. Sisti., F.Fineli, F.Califano., J.Dargent., M.Faganello., E. Camporeale., J.Teunissen (2020). Identifying Magnetic Reconnection in 2D Hybrid Vlasov Maxwell Simulations with Convolutional Neural Networks. The Astrophysical Journal, 900(1), 86
 
   <b>A, Hu</b>., Carter, B., Currie, J., Norman, R., Wu, S., & Zhang, K. (2020). A Deep Neural Network Model of Global Topside Electron Temperature Using Incoherent Scatter Radars and Its Application to GNSS Radio Occultation. Journal of Geophysical Research: Space Physics, 125, e2019JA027263. https://doi.org/10.1029/2019JA027263
