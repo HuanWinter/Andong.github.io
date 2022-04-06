@@ -22,6 +22,6 @@ Before that, I was working in [Multiscale Dynamic (MD) Group, Centrum Wiskunde &
 
 I achieved my Geoscience doctoral degree (2020) in Satellite Positioning for Atmosphere, Climate and Environment ([SPACE](https://www.rmit.edu.au/research/centres-collaborations/space-research-centre)), Royal Melbourne Institute of Technology (RMIT) University, supervised by [Kefei Zhang](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/z/zhang-professor-kefei) and [Brett Carter](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/carter-dr-brett).
 
-My main interests cover Global Navigation Satellite System (GNSS), Machine Learning and Space Weather.
+My major interests cover Global Navigation Satellite System (GNSS), Machine Learning and Space Weather.
 
 ![me](assets/img/portrait.png)
