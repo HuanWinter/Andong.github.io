@@ -22,5 +22,5 @@ redirect_from:
 
 [A Machine Learning Dataset Prepared from the SoHO Mission for Space Weather Readiness (Oral)](assets/pdf/SoHO_data.pdf)
 
-1-to-3 days ahead probabilistic prediction of Dst storms using Full-Disk SoHO Images(Oral)
+[1-to-3 days ahead probabilistic prediction of Dst storms using Full-Disk SoHO Images(Oral)](https://arxiv.org/pdf/2203.11001.pdf)
 
